@@ -1,0 +1,7 @@
+# Set default behavior to automatically handle line endings
+* text=auto
+
+# Explicitly specify file types if needed
+*.js text
+*.css text
+*.md text
